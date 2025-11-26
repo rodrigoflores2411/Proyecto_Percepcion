@@ -1,0 +1,10 @@
+opencv-contrib-python==4.8.0.76
+numpy>=1.26,<2
+pandas>=2.2
+pyspark==3.5.1
+pyarrow>=16.0
+matplotlib>=3.8
+sounddevice>=0.4.6
+soundfile>=0.12.1
+cryptography>=43.0
+scikit-learn>=1.3       
